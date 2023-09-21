@@ -1,6 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Shahab ullah</h1>
-<(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+
 <h3 align="center">A Dedicated Software Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabullah2304&label=Profile%20views&color=0e75b6&style=flat" alt="shahabullah2304" /> </p>
@@ -39,4 +38,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahabullah2304&show_icons=true&locale=en" alt="shahabullah2304" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabullah2304&" alt="shahabullah2304" /></p>
-
