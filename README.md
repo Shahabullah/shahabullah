@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shahabullah2304" target="blank"><img src="https://img.shields.io/twitter/follow/shahabullah2304?logo=twitter&style=for-the-badge" alt="shahabullah2304" /></a> </p>
 
-- 🔭 I’m currently working on **’m currently learning Data Science, Data Analysis, Deep Learning, Artificial Intelligence & AI Chatbots**
+- 🔭 I’m currently working on **learning Data Science, Data Analysis, Deep Learning, Artificial Intelligence & AI Chatbots**
 
 - 🌱 I’m currently learning **AI**
 
