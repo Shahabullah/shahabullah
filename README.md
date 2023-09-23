@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **ML Based Human Emotion Detection**
 
-- 👨‍💻 All of my projects are available at [https://shahabullah2304.netlify.app/](https://shahabullah2304.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/shahabullah2304](https://github.com/shahabullah2304)
 
 - 💬 Ask me about **Web development and AI**
 
