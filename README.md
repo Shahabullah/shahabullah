@@ -1,5 +1,5 @@
 ![logo](https://github.com/shahabullah2304/shahabullah2304/blob/main/shahab2304.jpeg)
-<h1 align="center">Hi 👋, I'm Shahab ullah</h1>
+<h1 align="center">Hi 👋, I'm Shahab Ullah</h1>
 <h3 align="center">A Dedicated Software Engineer from Pakistan</h3>
 <image align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahabullah2304&label=Profile%20views&color=0e75b6&style=flat" alt="shahabullah2304" /> </p>
